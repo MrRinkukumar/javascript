@@ -1,0 +1,14 @@
+console.log(`here we study about dom `);
+let a = window;
+a = window.alert(`this is alert`);
+a = alert(`this is alert`);
+a = confirm(`you entsred right vlue`);
+a = prompt(`you want to close this page`);
+a = window.innerHeight;
+a = innerWidth;
+a = scrollX;
+a = scrollY;
+a = location;
+a = history;
+a = history.go(-1);
+console.log(a);
